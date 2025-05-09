@@ -38,9 +38,8 @@
 ---
 
 ### 🤝 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilhermemercedes/)  
-📬 Email: guilhermesouzamercedes@gmail.com
+<a href = "guilhermesouzamercedes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilhermemercedes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
