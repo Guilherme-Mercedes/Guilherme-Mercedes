@@ -21,15 +21,19 @@
 
 ### 📊 Estatísticas
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Mercedes&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mercedes&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Mercedes&show_icons=true&theme=dracula" alt="Guilherme's GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mercedes&layout=compact&theme=dracula" alt="Top Langs" height="165">
+</p>
 
 ---
 
 ### 📂 Projetos em Destaque
 
-- 🎲 [Sorteador com efeitos visuais](https://github.com/Guilherme-Mercedes/sorteador) — JavaScript + CSS, com animação!
-- 📚 [Exercícios de lógica](https://github.com/Guilherme-Mercedes/exercicios-logica) — Praticando o raciocínio afiado!
+- 🎲 [Sorteador com efeitos visuais](https://github.com/Guilherme-Mercedes/sorteador-numeros) — JavaScript + CSS, com animação!
+- 📚 [Exercícios de POO](https://github.com/Guilherme-Mercedes/ExercicioPOO2) — Praticando a programacao orientada a objetos com C#!
+- 🎲 [Jogo da Adivinhação](https://github.com/Guilherme-Mercedes/JogoDaAdivinhacao/tree/master/JogoDaAdivinhacao) — C#, jogo simples!
+- 🧮 [Calculadora](https://github.com/Guilherme-Mercedes/Calculadora) — Uma calculadora simples usando C# e metodos!
 
 ---
 
